@@ -1,0 +1,17 @@
+#!/bin/sh
+while : ; do
+  if hash java; then
+    java -jar kutil-cmd.jar $@
+    exit $?
+
+  else
+    if hash apt; then
+      sudo apt install default-jre-headless -y
+      continue
+
+    else
+      java
+      exit 1
+    fi
+  fi
+done

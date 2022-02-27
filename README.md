@@ -1,28 +1,34 @@
-# NAME
+# kutil-cmd
+
+## About
+
+* コンフィグの同期
+* ソフトウェア管理
+* 自動化プログラムの管理
+
+## Command
+* kutil
 
 ## Requirement
+
+* sh
+* java
 
 ## Author
 
 * kigawa
-  * kigawa.8390@gmail.com
-
-## About
-
+    * kigawa.8390@gmail.com
 
 # Making
 
 ## Version
 
-### Example: 9.1a
+### Example: 9.1dev
 
 * **9.1dev**
-  * プラグインのバージョン
-  * **9**: メジャー
-  * **1**: マイナー
-  * **dev**: プラグインのバージョン バグがあるかもしれない(dev)/致命的なバグがないと思われる(b)/バグはないと思われる(R)
+    * バージョン
+    * **9**: メジャー
+    * **1**: マイナー
+    * **dev**: ブランチ/mainのときはなし
 
 ## ToDo
-
-
-## ChangeLog
