@@ -7,28 +7,31 @@
 * 自動化プログラムの管理
 
 ## Command
+
 * kutil
 
 ## Requirement
 
 * sh
-* java
+* go
 
 ## Author
 
 * kigawa
-    * kigawa.8390@gmail.com
+  * kigawa.8390@gmail.com
 
-# Making
+## Develop
+
+* install go
 
 ## Version
 
 ### Example: 9.1dev
 
 * **9.1dev**
-    * バージョン
-    * **9**: メジャー
-    * **1**: マイナー
-    * **dev**: ブランチ/mainのときはなし
+  * バージョン
+  * **9**: メジャー
+  * **1**: マイナー
+  * **dev**: ブランチ/mainのときはなし
 
 ## ToDo
