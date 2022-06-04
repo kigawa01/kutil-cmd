@@ -1,3 +1,3 @@
-module kutil-script
+module kutil-cmd
 
 go 1.18
